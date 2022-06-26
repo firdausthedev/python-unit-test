@@ -8,4 +8,4 @@
 - :x: database :orange_book:
 - :x: the network :signal_strength:
 
-4. The convention for unit test file in python is test\_["thing being tested"].py
+4. The naming convention for unit test file in python is test\_["thing being tested"].py
